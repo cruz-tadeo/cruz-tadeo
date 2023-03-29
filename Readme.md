@@ -23,4 +23,4 @@ Soy programador Full Stack <img src="https://media.giphy.com/media/WUlplcMpOCEmT
 
 - :zap: En mi tiempo libre, leo arcticulos de tecnología y practico deporte.
 
-- :mailbox:Como contactarme: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/cruz-antonio-jimenez-tadeo-3a068314b)
+- :mailbox:Como contactarme: [![Linkedin Badge](https://img.shields.io/badge/Cruz-Tadeo?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/cruz-antonio-jimenez-tadeo-3a068314b)
