@@ -7,4 +7,5 @@
   <a href="https://www.linkedin.com/in/cruz-antonio-jimenez-tadeo-3a068314b">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
+  <img src="https://komarev.com/ghpvc/?username=cruz-tadeo&style=flat-square&color=blue" alt=""/>
 </div>
