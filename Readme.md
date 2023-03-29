@@ -49,4 +49,4 @@ Soy programador Full Stack <img src="https://media.giphy.com/media/WUlplcMpOCEmT
 
 ### :fire: My Stats :
 
-https://github-readme-streak-stats.herokuapp.com/?user=cruz-tadeo
+[![GitHub Streak](https://streak-stats.demolab.com/?user=cruz-tadeo)](https://git.io/streak-stats)
